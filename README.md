@@ -32,7 +32,8 @@ Here are some technologies and tools I work with:
 
 Here are some of my recent projects:
 
-- **[My Portfolio](https://github.com/angelsaezr/angelsaezr.github.io)**: A portfolio website created with HTML, CSS, and JavaScript, showcasing my work and projects.
+<!-- - **[My Portfolio](https://github.com/angelsaezr/angelsaezr.github.io)**: A portfolio website created with HTML, CSS, and JavaScript, showcasing my work and projects.-->
+- **<a href="https://github.com/angelsaezr/my-portfolio" target="_blank">My Portfolio</a>**: A portfolio website created with HTML, CSS, and JavaScript, showcasing my work and projects.
 
 Feel free to explore my repositories and check out my work!
 
