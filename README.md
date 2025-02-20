@@ -13,6 +13,7 @@ Murcia, Spain
 🔗 **Connect with Me:**  
 - [LinkedIn](https://linkedin.com/in/angelsaezr)
 - [Portfolio](https://angelsaezr.github.io)
+<a href="https://linkedin.com/in/angelsaezr" target="_blank" rel="noopener noreferrer">LinkedIn</a>
 
 ## 📈 My Stats
 
