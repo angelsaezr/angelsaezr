@@ -1,4 +1,4 @@
-# 👋 Welcome to Ángel Sáez's GitHub Profile!
+# 👋 Welcome to Ángel's GitHub Profile!
 
 ## 🌟 About Me
 
@@ -29,6 +29,26 @@ Here are some technologies and tools I work with:
 ![Java](https://img.shields.io/badge/-Java-007396?style=flat&logo=java&logoColor=ffffff)
 ![SQL](https://img.shields.io/badge/-SQL-003B57?style=flat&logo=sqlite&logoColor=ffffff)
 
+## 💼 Experience
+
+### 🖥️ Junior Software Engineer - **GOWtech**  
+_Feb. 2025 - May. 2025_  
+Technologies: **Node.js, MySQL, Nuxt, UML**  
+
+- Collaborated with the development team on backend services using Node.js and MySQL.  
+- Assisted in building scalable web applications with Nuxt.  
+- Designed and maintained UML diagrams for software documentation.  
+
+---
+
+### 🎓 Intern - **Student Internship**  
+_Oct. 2024 - May. 2025_  
+Technologies: **Svelte, Svelte Kit, TypeScript, Vite, PWA**  
+
+- Developed Progressive Web Applications (PWAs) with Svelte Kit and TypeScript.  
+- Optimized application performance and user experience.  
+- Worked closely with the team to deliver responsive and high-quality web solutions.  
+
 ## 📚 Projects
 
 Here are some of my recent projects:
@@ -55,7 +75,6 @@ Thank you for visiting my GitHub profile! 🚀
 ---
 
 *Proudly crafted with ❤️ by Ángel Sáez*
-
 
 <!--
 **angelsaezr/angelsaezr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
