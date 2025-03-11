@@ -42,7 +42,7 @@ Technologies: **Node.js, MySQL, Nuxt, UML**
 ---
 
 ### 🎓 Intern - **Student Internship**  
-_Oct. 2024 - May. 2025_  
+_Oct. 2024 - Mar. 2025_  
 Technologies: **Svelte, Svelte Kit, TypeScript, Vite, PWA**  
 
 - Developed Progressive Web Applications (PWAs) with Svelte Kit and TypeScript.  
